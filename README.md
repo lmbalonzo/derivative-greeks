@@ -5,3 +5,8 @@ This is based on ASX Portfolio's video on Option Greeks Pricing using Black-Scho
 - py_vollib.black_scholes 
 - numpy
 - scipy
+
+# Future Improvements
+- Automate Input of Data
+- Compare Different Options and their Derivatives
+- Selection Option with Better Performance
