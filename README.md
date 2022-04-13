@@ -9,4 +9,4 @@ This is based on ASX Portfolio's video on Option Greeks Pricing using Black-Scho
 # Future Improvements
 - Automate Input of Data
 - Compare Different Options and their Derivatives
-- Selection Option with Better Performance
+- Selection of Option with Better Performance
